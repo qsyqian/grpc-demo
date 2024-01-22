@@ -12,10 +12,10 @@ libprotoc 3.21.12
 ```shell
 # ll $GOPATH/bin  
 total 178752
--rwxr-xr-x  1 zeyi  staff    59M Jan 18 17:54 goctl
--rwxr-xr-x  1 zeyi  staff   8.7M Jan 18 10:13 protoc-gen-go
--rwxr-xr-x  1 zeyi  staff   8.5M Jan 18 10:15 protoc-gen-go-grpc
--rwxr-xr-x  1 zeyi  staff    11M Jan 19 15:45 protoc-gen-grpc-gateway
+-rwxr-xr-x  1 x  staff    59M Jan 18 17:54 goctl
+-rwxr-xr-x  1 x  staff   8.7M Jan 18 10:13 protoc-gen-go
+-rwxr-xr-x  1 x  staff   8.5M Jan 18 10:15 protoc-gen-go-grpc
+-rwxr-xr-x  1 x  staff    11M Jan 19 15:45 protoc-gen-grpc-gateway
 ```
 
 安装参考：https://grpc-ecosystem.github.io/grpc-gateway/docs/tutorials/introduction/
